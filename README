@@ -6,7 +6,7 @@ By Alexis Perpète, Nicolas Chevalier, Quentin Vautier
 
 API folder
 
-# GENERAL INFORMATIONS :
+## GENERAL INFORMATIONS :
 
 We work for a company offering a service to obtain market research to its users.
 The goal is to create an API that will provide an overview of the feelings of our users' prospects (via Trustpilot, Google,...), towards competing companies.

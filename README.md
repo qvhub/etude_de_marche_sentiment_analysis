@@ -26,4 +26,4 @@ Download our requirement and install all modules in virtual environnement (recom
 When you use the api, don't forget to click on « Running on http://127.0.0.1:5000/ »
 add paramters for city, business type, number of results per requests (max 999), kind of NLP and LDA.
 
-In this way you can get sentiments annalysis for :http://127.0.0.1:5000/etude-de-marche?city=reims&business=restaurant&nlp=nltk&lda=gensim
+In this way you can get sentiments annalysis for :http://127.0.0.1:5000/etude-de-marche?city=reims&nbr-result=2&business=restaurant&nlp=nltk&lda=gensim

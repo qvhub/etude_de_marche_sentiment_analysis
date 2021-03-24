@@ -27,4 +27,5 @@ When you use the api, don't forget to click on « Running on http://127.0.0.1:50
 add paramters for city, business type, number of results per requests (max 999), kind of NLP and LDA.
 
 In this way you can get sentiments annalysis for restaurant in Reims with 2 results, NLP with nltk et LDA Gensim (at this moment you must have put nltk and gensim):
+
 http://127.0.0.1:5000/etude-de-marche?city=reims&business=restaurant&nbr-result=2&nlp=nltk&lda=gensim

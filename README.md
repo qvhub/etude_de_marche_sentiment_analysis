@@ -9,7 +9,7 @@ API folder
 ## GENERAL INFORMATIONS :
 
 We work for a company offering a service to obtain market research to its users.
-The goal is to create an API that will provide an overview of the feelings of our users' prospects (via Trustpilot, Google,...), towards competing companies.
+The goal is to create an API that will provide an overview of the feelings of our users' prospects Google, towards competing companies.
 Once the API is ready, it will be connected to a new dashboard developed in parallel with the web division.
 The API will at least allow to retrieve, for a given domain and location, a json proposing the necessary data to establish an efficient dashboard.
 To do this, our API will return the complete reviews of the establishments, will present the most significant words, will return each feeling by differentiating them, suggestion of the ranking of the establishments according to the customers' reviews

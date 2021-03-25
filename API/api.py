@@ -68,6 +68,7 @@ def etude_de_marche():
         print('W I P')
 
     data_select = result_nlp_nltk[['business_name', 'sentiment']]
+    data_select = data_select.groupby(by=["business_name"]).mean()
 
     render = {
             "Taux de satisfaction": global_satisfaction,

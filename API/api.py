@@ -84,7 +84,7 @@ def etude_de_marche():
 
 @app.route('/')
 def bienvenu():
-    var_txt = "Bienvenu sur * * * V L A - - l'A P I * * * et * * * V L A les resultats * * *"
+    var_txt = "Bienvenue sur * * * V L A - - l'A P I * * * et * * * V L A les resultats * * *"
     return var_txt
 
 if __name__ == '__main__':
